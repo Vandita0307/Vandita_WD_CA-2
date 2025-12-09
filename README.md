@@ -1,1 +1,6 @@
 # Vandita_WD_CA-2
+This project is a simple website created using basic HTML and CSS. It demonstrates the use of essential web development tags that help structure and connect different parts of a webpage. The <nav> tag is used to build the navigation bar, which contains multiple <a> (anchor) tags that allow users to move smoothly between sections or pages. The overall layout is organized using <div> elements, which act as container blocks to group text, images, or any content for better structure and styling.
+
+For arranging elements neatly on the screen, the project uses Flexbox through display: flex in CSS. Flexbox makes it easier to align items, create spacing, and position elements either in rows or columns, making the layout look clean and balanced. Additionally, the project includes the use of <form> tags to collect user inputs in a structured way, such as text fields, email fields, and submit buttons.
+
+Overall, this website highlights the fundamental building blocks of web design. By combining navigation, anchors, divisions, flex layouts, and forms,float, the project provides a clear understanding of how basic HTML tags and CSS techniques come together to create a functional and well-structured webpage.
